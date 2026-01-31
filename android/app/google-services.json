@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703975032577",
+    "project_id": "testingauthentication-b2887",
+    "storage_bucket": "testingauthentication-b2887.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703975032577:android:1883fbca61eb23b4f93d00",
+        "android_client_info": {
+          "package_name": "com.example.my_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703975032577-hbtt3kl9m1212fvngfb6dg46i3dr1nl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB35qahR7UJHRdg8w2qqYc-E0DAhEDOoaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703975032577-hbtt3kl9m1212fvngfb6dg46i3dr1nl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
